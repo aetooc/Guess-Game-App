@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Guessing Game</string>
+    <string name="guess_any_number">Guess!</string>
+    <string name="button">Guess</string>
+</resources>
